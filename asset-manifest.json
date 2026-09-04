@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mariaroopa/Counter-Random-App.git/static/css/main.77481253.css",
+    "main.js": "/mariaroopa/Counter-Random-App.git/static/js/main.cf07c496.js",
+    "index.html": "/mariaroopa/Counter-Random-App.git/index.html",
+    "main.77481253.css.map": "/mariaroopa/Counter-Random-App.git/static/css/main.77481253.css.map",
+    "main.cf07c496.js.map": "/mariaroopa/Counter-Random-App.git/static/js/main.cf07c496.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77481253.css",
+    "static/js/main.cf07c496.js"
+  ]
+}
