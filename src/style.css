@@ -1,0 +1,61 @@
+
+body {
+  margin: 0;
+  background-color: #91a4c1;
+  font-family: Arial, sans-serif;
+}
+.App {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.App  h1 {
+  color: #020417;
+  margin-bottom: 30px;
+}
+
+.section {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 25px;
+  margin: 20px auto;
+  width: 300px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.section:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 36px rgba(0, 0, 0, 0.32);
+}
+
+.section h2 {
+  color: #2b2d42;
+  margin-bottom: 10px;
+}
+
+.section h1 {
+  color: #ff6b35;
+  margin: 10px 0;
+}
+
+.message {
+  color: red;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #145617;
+}
+
